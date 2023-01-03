@@ -29,11 +29,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zarskiahmed&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zarskiahmed&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### ✍️ Quote
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zarskiahmed&icon=1&color=4)](https://visitcount.itsvg.in)
