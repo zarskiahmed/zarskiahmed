@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 Software Engineer II working at Clearsense, LLC in the domains of Ruby on Rails (Full-Stack Web Development) + Data Science<br>📖 Self-learning Front End and Back End Web Development<br>⌚ Hobbies: Stock Market & Trading, Reading, Cooking Recipes, Writing Books, Writing Songs, Resin Art<br> 📫 How to reach me: zara.ahmed@queensu.ca<br>👯 I’m looking for new opportunities or jobs for Ruby on Rails Developer, Machine Learning Engineer, or Data Scientist. 
+🔭 Software Engineer II working at Clearsense, LLC in the domains of Ruby on Rails (Full-Stack Web Development) and Data Science<br>📖 Self-learning Front End and Back End Web Development<br>⌚ Hobbies: Stock Market & Trading, Reading, Cooking Recipes, Writing Books, Writing Songs, Resin Art<br> 📫 How to reach me: zara.ahmed@queensu.ca<br>👯 I’m looking for new opportunities or jobs for Ruby on Rails Developer, Machine Learning Engineer, or Data Scientist. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zara-coding) 
